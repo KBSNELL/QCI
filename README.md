@@ -1,0 +1,2 @@
+# QCI
+Quality Connected Intelligence
